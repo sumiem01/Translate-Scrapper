@@ -1,3 +1,4 @@
+import typing as t
 import requests
 from bs4 import BeautifulSoup
 
@@ -7,7 +8,7 @@ def get_definition(word: str, url: str = 'https://dictionary.cambridge.org/dicti
     Cambridge Dictionary Scrapper
     """
     page_html: str = requests.get(url + word).text
-    soup: object = BeautifulSoup(page_html, 'html.parser')
+    soup = BeautifulSoup(page_html, 'html.parser')  # type: bs4.BeautifulSoup
 
     counter: int = 0
     back: str = ''
@@ -22,6 +23,8 @@ def get_definition(word: str, url: str = 'https://dictionary.cambridge.org/dicti
 
 
 if __name__ == '__main__':
-    word: str = input('Podaj angielskie słowo: ').lower()
-    print(word)
-    print(get_definition(word))
+    # word: str = input('Podaj angielskie słowo: ').lower()
+    words: t.List['str'] = ['appear', 'shoe', 'headphones']
+    for word in words:
+        print(word)
+        print(get_definition(word))
