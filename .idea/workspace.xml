@@ -108,14 +108,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Refactor annotation types. Add small example of using scrapper in a loop." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="546" y="115" key="CommitChangelistDialog2" timestamp="1592731191598">
+    <state x="546" y="115" key="CommitChangelistDialog2" timestamp="1592731357653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="546" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592731191598" />
+    <state x="546" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592731357653" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1587293491946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587293491946" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1592731361655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592731361655" />
     <state x="406" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1592730379284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
