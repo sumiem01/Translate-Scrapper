@@ -1,118 +1,153 @@
-grovel	"<div><br>1. to behave with too much respect towards someone to show that you are very eager to please them: </div>
+grovel	
+"<div><br>1. to behave with too much respect towards someone to show that you are very eager to please them: </div>
 <div><br>2. to move close to or on the ground: </div>
 <div><br>3. to lie facing the ground, esp. in fear, or to behave toward someone in a way that shows that you are small and unimportant and the other person is powerful: </div>"
 
-buffer	"<div><br>1. something or someone that helps protect from harm: </div>
+buffer	
+"<div><br>1. something or someone that helps protect from harm: </div>
 <div><br>2. the metal parts at the front and back of a train or at the end of a track, that help protect the train and reduce damage if the train hits something </div>
 <div><br>3. a chemical that keeps a liquid from becoming more or less acidic </div>"
 
-cajole	"<div><br>1. to persuade someone to do something they might not want to do, by pleasant talk and (sometimes false) promises: </div>
+cajole	
+"<div><br>1. to persuade someone to do something they might not want to do, by pleasant talk and (sometimes false) promises: </div>
 <div><br>2. to try to persuade someone to do something by saying things that please the person or make the person feel important: </div>"
 
-likewise	"<div><br>1. in the same way: </div>
+likewise	
+"<div><br>1. in the same way: </div>
 <div><br>2. in the same way or manner; similarly: </div>"
 
-precinct	"<div><br>1. a part of a city or a town in which vehicles are not allowed, used for a special purpose, such as shopping: </div>
+precinct	
+"<div><br>1. a part of a city or a town in which vehicles are not allowed, used for a special purpose, such as shopping: </div>
 <div><br>2. the area that surrounds a building or place, especially one with a wall around it: </div>
 <div><br>3. a division of a city or a town, especially an area protected by a particular unit of the police or a division used for voting purposes: </div>"
 
-feud	"<div><br>1. an argument that has existed for a long time between two people or groups, causing a lot of anger or violence: </div>
+feud	
+"<div><br>1. an argument that has existed for a long time between two people or groups, causing a lot of anger or violence: </div>
 <div><br>2. to have a feud with someone: </div>
 <div><br>3. an angry and sometimes violent argument that has continued for a long time between two people, families, or groups: </div>"
 
-pine	"<div><br>1. an evergreen tree (= one that never loses its leaves) that grows in cooler areas of the world: </div>
+pine	
+"<div><br>1. an evergreen tree (= one that never loses its leaves) that grows in cooler areas of the world: </div>
 <div><br>2. the wood of pine trees, usually pale in colour: </div>
 <div><br>3. to become increasingly thin and weak because of unhappiness, especially after the death of a loved person: </div>"
 
-deteriorate	"<div><br>1. to become worse: </div>"
+deteriorate	
+"<div><br>1. to become worse: </div>"
 
-blight	"<div><br>1. a disease that damages and kills plants</div>
+blight	
+"<div><br>1. a disease that damages and kills plants</div>
 <div><br>2. something that spoils or has a very bad effect on something, often for a long time: </div>
 <div><br>3. to spoil something: </div>"
 
-gape	"<div><br>1. to look in great surprise at someone or something, especially with an open mouth: </div>
+gape	
+"<div><br>1. to look in great surprise at someone or something, especially with an open mouth: </div>
 <div><br>2. to be or become wide open: </div>
 <div><br>3. to look in great surprise at someone or something, esp. with an open mouth: </div>"
 
-accord	"<div><br>1. (a formal) agreement: </div>
+accord	
+"<div><br>1. (a formal) agreement: </div>
 <div><br>2. If you do something of your own accord, you do it without being asked to do it: </div>
 <div><br>3. If people do something with one accord, they do it together and in complete agreement: </div>"
 
-turd	"<div><br>1. a piece of solid waste: </div>
+turd	
+"<div><br>1. a piece of solid waste: </div>
 <div><br>2. a rude word for someone who you think is unpleasant: </div>"
 
-tangible	"<div><br>1. real and not imaginary; able to be shown, touched, or experienced: </div>
+tangible	
+"<div><br>1. real and not imaginary; able to be shown, touched, or experienced: </div>
 <div><br>2. real and able to be shown or touched: </div>
 <div><br>3. real, existing; able to be shown or experienced: </div>"
 
-helm	"<div><br>1. the handle or wheel which controls the direction in which a ship or boat travels: </div>
+helm	
+"<div><br>1. the handle or wheel which controls the direction in which a ship or boat travels: </div>
 <div><br>2. officially controlling an organization or company: </div>
 <div><br>3. to start to officially control an organization or company</div>"
 
-blinkered	"<div><br>1. A blinkered person is unable or unwilling to understand other people's beliefs, and blinkered opinions or ways of behaving show someone is unable or unwilling to understand other people: </div>"
+blinkered	
+"<div><br>1. A blinkered person is unable or unwilling to understand other people's beliefs, and blinkered opinions or ways of behaving show someone is unable or unwilling to understand other people: </div>"
 
-recuse	"<div><br>1. to say that a judge or a member of a jury should not be involved in a trial because they have a special interest in its final result: </div>"
+recuse	
+"<div><br>1. to say that a judge or a member of a jury should not be involved in a trial because they have a special interest in its final result: </div>"
 
-rally	"<div><br>1. a public meeting of a large group of people, especially supporters of a particular opinion: </div>
+rally	
+"<div><br>1. a public meeting of a large group of people, especially supporters of a particular opinion: </div>
 <div><br>2. a car or motorcycle race, especially over long distances on public roads: </div>
 <div><br>3. a continuous exchange of hits between players in tennis, squash or badminton</div>"
 
-bestow	"<div><br>1. to give something as an honour or present: </div>
+bestow	
+"<div><br>1. to give something as an honour or present: </div>
 <div><br>2. to give something as an honor or present: </div>"
 
-heinous	"<div><br>1. very bad and shocking: </div>
+heinous	
+"<div><br>1. very bad and shocking: </div>
 <div><br>2. (esp. of a crime) extremely bad or evil: </div>"
 
-vague	"<div><br>1. not clearly expressed, known, described, or decided: </div>
+vague	
+"<div><br>1. not clearly expressed, known, described, or decided: </div>
 <div><br>2. not clear in shape, or not clearly seen: </div>
 <div><br>3. A vague person is not able to think clearly, or gives an impression of not thinking clearly in order to hide their real thoughts: </div>
 "
-vat	"<div><br>1. a large container used for mixing or storing liquid substances, especially in a factory: </div>
-<div><br>2. value added tax (= a type of tax in European countries that is paid by the person who buys goods and services)</div>
-<div><br>3. a large container for mixing or storing liquids, esp. as used in industry: </div>
-"
-intel	"<div><br>1. secret information about the governments of other countries, especially enemy countries (a short form of the word "intelligence"): </div>
-"
-excel	"<div><br>1. to be extremely good at something: </div>
-<div><br>2. to do something better than you usually do: </div>
-<div><br>3. to do something very well or be highly skilled, and be better than most others: </div>
-"
-beseech	"<div><br>1. to ask for something in a way that shows you need it very much: </div>
-"
-arduous	"<div><br>1. difficult, needing a lot of effort and energy: </div>
-<div><br>2. difficult and tiring, or needing a great deal of effort: </div>
-"
-gait	"<div><br>1. a particular way of walking: </div>
-<div><br>2. the particular way a horse walks or runs: </div>
-<div><br>3. a particular way of walking: </div>
-"
-augur	"<div><br>1. to be a sign of especially good or bad things in the future: </div>
-"
-transverse	"<div><br>1. in a position or direction that is at an angle of 90 to something else: </div>
-"
-demean	"<div><br>1. to cause someone to become less respected: </div>
-<div><br>2. to cause to become less respected: </div>
-"
-whiff	"<div><br>1. a slight smell, carried on a current of air: </div>
-<div><br>2. a slight sign of something: </div>
-<div><br>3. a smell that you notice briefly: </div>
-"
-demerit	"<div><br>1. a fault or disadvantage: </div>
-<div><br>2. a mark given to someone, especially a student in a school, because they have done something wrong or broken a rule: </div>
-"
-deranged	"<div><br>1. completely unable to think clearly or behave in a controlled way, especially because of mental illness: </div>
-<div><br>2. behaving in a way that is dangerous or not controlled because of mental illness: </div>
-"
-lathe	"<div><br>1. a machine for changing the shape of a piece of wood, metal, etc. that works by turning the material while a sharp tool is pressed against it</div>
-"
 
-serenity	"<div><br>1. the quality of being peaceful and calm: </div>
-"
-riddle	"<div><br>1. a type of question that describes something in a difficult and confusing way and has a clever or funny answer, often asked as a game</div>
+vat	
+"<div><br>1. a large container used for mixing or storing liquid substances, especially in a factory: </div>
+<div><br>2. value added tax (= a type of tax in European countries that is paid by the person who buys goods and services)</div>
+<div><br>3. a large container for mixing or storing liquids, esp. as used in industry: </div>"
+
+intel	
+"<div><br>1. secret information about the governments of other countries, especially enemy countries (a short form of the word intelligence): </div>"
+
+excel	
+"<div><br>1. to be extremely good at something: </div>
+<div><br>2. to do something better than you usually do: </div>
+<div><br>3. to do something very well or be highly skilled, and be better than most others: </div>"
+
+beseech	
+"<div><br>1. to ask for something in a way that shows you need it very much: </div>"
+
+arduous	
+"<div><br>1. difficult, needing a lot of effort and energy: </div>
+<div><br>2. difficult and tiring, or needing a great deal of effort: </div>"
+
+gait	
+"<div><br>1. a particular way of walking: </div>
+<div><br>2. the particular way a horse walks or runs: </div>
+<div><br>3. a particular way of walking: </div>"
+
+augur	
+"<div><br>1. to be a sign of especially good or bad things in the future: </div>"
+
+transverse	
+"<div><br>1. in a position or direction that is at an angle of 90 to something else: </div>"
+
+demean	
+"<div><br>1. to cause someone to become less respected: </div>
+<div><br>2. to cause to become less respected: </div>"
+
+whiff	
+"<div><br>1. a slight smell, carried on a current of air: </div>
+<div><br>2. a slight sign of something: </div>
+<div><br>3. a smell that you notice briefly: </div>"
+
+demerit	
+"<div><br>1. a fault or disadvantage: </div>
+<div><br>2. a mark given to someone, especially a student in a school, because they have done something wrong or broken a rule: </div>"
+
+deranged	
+"<div><br>1. completely unable to think clearly or behave in a controlled way, especially because of mental illness: </div>
+<div><br>2. behaving in a way that is dangerous or not controlled because of mental illness: </div>"
+
+lathe	
+"<div><br>1. a machine for changing the shape of a piece of wood, metal, etc. that works by turning the material while a sharp tool is pressed against it</div>"
+
+serenity	
+"<div><br>1. the quality of being peaceful and calm: </div>"
+
+riddle	
+"<div><br>1. a type of question that describes something in a difficult and confusing way and has a clever or funny answer, often asked as a game</div>
 <div><br>2. something that is confusing, or a problem that is difficult to solve: </div>
-<div><br>3. to make a lot of holes in something: </div>
-"
-atrocity	"<div><br>1. an extremely cruel, violent, or shocking act: </div>
+<div><br>3. to make a lot of holes in something: </div>"
+
+atrocity	
+"<div><br>1. an extremely cruel, violent, or shocking act: </div>
 <div><br>2. the fact of something being extremely cruel, violent, or shocking: </div>
-<div><br>3. an extremely cruel act, or the committing of such acts: </div>
-"
+<div><br>3. an extremely cruel act, or the committing of such acts: </div>"
